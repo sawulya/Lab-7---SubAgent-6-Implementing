@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Autonomous AI agents capable of executing multi-step internal workflows with human checkpoints",
+  "intended_application": "Internal bank operations assistant that triages employee service requests, retrieves approved knowledge, drafts recommended actions, and submits any sensitive action for human approval",
+  "industry_sector": "Banking / financial services (fictional instructional cases)",
+  "business_need": "Reduce repetitive internal service handling while maintaining control, auditability, and service continuity",
+  "users_stakeholders": "Operations staff, service desk analysts, risk/compliance, information security, IT platform owners, employees receiving service",
+  "risk_consequence_context": "Incorrect routing, unauthorized actions, sensitive internal data exposure, audit gaps, outages and customer-service spillovers; all test cases restrict agents to internal work with human authorization for sensitive changes",
+  "management_question": "Should management begin a limited controlled pilot within the next quarter, and what must be proven first?",
+  "time_horizon": "Next 90 days",
+  "additional_context": "FICTIONAL SCENARIO for a course context-contrast test; statements about organizational practices are assumed case inputs, not independently verified facts. No autonomous financial decisions, customer-facing advice or live account changes are authorized.",
+  "organization": "Northbridge Bank (fictional, well-resourced, moderate adopter)",
+  "adoption_posture": "Moderate / fast-follower; executive sponsor approves a controlled internal pilot with stop criteria",
+  "capabilities_constraints": "Leadership: named COO sponsor and weekly steering meeting with go/no-go responsibility. Skills: operations analysts, security team and IT owners trained for pilot. Workflow: documented request classes, exception routing and human signoff. Infrastructure/data: sandbox peak-load test passed for the capped pilot; access tags and role checks were tested. Resources/budget: pilot funds approved, maintenance team provisionally assigned; multi-period support budget is described verbally but not yet documented. Governance/risk: reviewed audit logs, human approval steps, incident escalation and rollback rehearsal. Culture/change: staff feedback and training plan scheduled. Operating ownership: service owner and backup named. These facts are hypothetical assumptions."
+}

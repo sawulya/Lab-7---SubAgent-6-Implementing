@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Autonomous AI agents capable of executing multi-step internal workflows with human checkpoints",
+  "intended_application": "Internal bank operations assistant that triages employee service requests, retrieves approved knowledge, drafts recommended actions, and submits any sensitive action for human approval",
+  "industry_sector": "Banking / financial services (fictional instructional cases)",
+  "business_need": "Reduce repetitive internal service handling while maintaining control, auditability, and service continuity",
+  "users_stakeholders": "Operations staff, service desk analysts, risk/compliance, information security, IT platform owners, employees receiving service",
+  "risk_consequence_context": "Incorrect routing, unauthorized actions, sensitive internal data exposure, audit gaps, outages and customer-service spillovers; all test cases restrict agents to internal work with human authorization for sensitive changes",
+  "management_question": "Should management begin a limited controlled pilot within the next quarter, and what must be proven first?",
+  "time_horizon": "Next 90 days",
+  "additional_context": "FICTIONAL SCENARIO for a course context-contrast test; statements about organizational practices are assumed case inputs, not independently verified facts. No autonomous financial decisions, customer-facing advice or live account changes are authorized.",
+  "organization": "Harbor Community Bank (fictional, medium-sized, risk-averse)",
+  "adoption_posture": "Conservative / risk-averse; leadership is interested but has not committed durable sponsorship",
+  "capabilities_constraints": "Leadership: innovation lead supports idea but no executive sponsor or decision gate. Skills: two analysts trained, operations staff not trained. Workflow: service desk lacks documented exceptions and signoff for escalations. Infrastructure/data: peak-load test failed in sandbox; knowledge base has inconsistent access tags. Resources/budget: one-off trial funds are available, but recurring maintenance and monitoring budget is not allocated. Governance/risk: draft logging plan exists, but security review and rollback procedure are unfinished. Culture/change: frontline employees concerned about accountability; no feedback loop. Operating ownership: no named service owner after proof-of-concept. These facts are hypothetical assumptions."
+}
