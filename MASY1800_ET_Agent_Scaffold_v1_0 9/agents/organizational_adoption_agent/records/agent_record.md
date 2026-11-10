@@ -2,9 +2,9 @@
 
 **Student:** Alexandra Chsherbinina  
 **Date:** 2026-11-09  
-**Repository:** https://github.com/sawulya/Lab-7---SubAgent-6-Implementing
-) 
-**Branch / commit: main  / c653bac2388b69b8b8f39b828083e1dd63ab5764 
+**Repository:** https://github.com/sawulya/Lab-7---SubAgent-6-Implementing  
+**Branch:** main  
+**Commit:** 7f8e8891ec7b504932432687dae3fb555bbda71b  
 **Scaffold:** MASY1800_ET_Agent_Scaffold_v1_0 (FROZEN CORE unchanged)  
 **Version:** 1.1-student-2026-11-09
 
